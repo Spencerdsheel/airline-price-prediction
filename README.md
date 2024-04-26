@@ -1,1 +1,1 @@
-Repository fro Airline price prediction
+Repository for Airline price prediction
